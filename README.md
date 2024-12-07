@@ -60,3 +60,6 @@ This app uses the **[DWYL English Words Dataset](https://github.com/dwyl/english
 ### **Stay One Step Ahead of Hackers!** 🕵️‍♂️  
 Strengthen your digital security today with smarter, stronger passwords and passphrases! 🛡️  
 ✨ **Generate. Protect. Secure.** ✨  
+<br>
+<br>
+>inspired from //100_days_of_python_proggramming_Udemy
